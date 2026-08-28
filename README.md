@@ -4,7 +4,7 @@ Senior Marketing Automation & RevOps Leader focused on scalable B2B GTM systems,
 
 ## About
 
-I’m Vadim Koenen, MBA, a marketing automation and RevOps professional with 12+ years of experience helping B2B teams build cleaner, more scalable revenue technology systems.
+I’m Vadim Koenen, MBA, a marketing automation and RevOps professional with 14 years of experience helping B2B teams build cleaner, more scalable revenue technology systems.
 
 My work focuses on connecting marketing strategy with hands-on GTM execution across Marketo, Salesforce, 6sense, Salesloft, lifecycle marketing, ABM, campaign operations, lead scoring, routing logic, nurture programs, QA, attribution readiness, and reporting structure.
 
